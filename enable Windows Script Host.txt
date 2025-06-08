@@ -1,0 +1,17 @@
+
+eror "aktivasi gagal karena Windows Script Host access is disabled."
+
+lalukan beberapa cara berikut:
+1. buka regedit/registry editor
+2. pergi ke "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows Script Host\Settings"
+3. buat file baru dengan format file seperti di Bawah ini;
+4. pergi ke "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Script Host\Settings"
+5. buat file yang sama seperti sebelumnya.
+6. restart computer/leptop.
+
+format file:
+
+buat file 	: DWORD (32-bit)Value
+value name	: Enabled 
+value data 	: 1
+base 		: haxadecimal
