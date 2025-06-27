@@ -12,6 +12,4 @@ office yang di dukung;
 
 - 2019
 
-- 2021
-
 Tidak mendukung untuk Office 365
