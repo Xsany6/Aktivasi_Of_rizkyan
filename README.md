@@ -1,5 +1,5 @@
 # Aktivasi_Office_rizkyan
-Aktivasi office khusus windows/10/11 (64 Bit)
+Aktivasi office khusus windows 10/11 (64 Bit)
 
 Supported products:
 - Office Standard
