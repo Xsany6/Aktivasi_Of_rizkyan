@@ -1,6 +1,6 @@
 # Aktivasi Office Rizkyan
 
-![TOOLS Activation](https://idwebyik.my.id/aktivator_key.exe)
+![Office Activation](https://raw.githubusercontent.com/Xsany6/Xsany6.github.io/main/_488bf90c-b1a3-46a8-9da7-cfbd6e91c783.png)
 
 ---
 ### 📌 Fitur
